@@ -1,14 +1,16 @@
 ---
 layout: blog
-title: Setting up Hugging Face Transformers on Mac OS M1/M2 Chips
+title: Setting up Hugging Face Transformers on Mac OS M1 Chips
 author: Michael Ilao
 date: 02-02-2024
-tags:
+keywords: huggingface, Hugging Face, Mac OS, M1, M2, Python, pytorch, AI, ML, Transformers
 ---
 
-# Setting up Hugging Face Transformers on Mac OS M1/M2 Chips
+# Setting up Hugging Face Transformers on Mac OS M1 Chips
 
-Setting up Python environments is a pain, matching all the package versions and hardware requirements is a nightmare. In this tutorial, I will show you the steps I took to run Hugging face transformers locally on my M2 Macbook. (Will work on any Apple Silicon chips).
+Setting up Python environments is a pain, matching all the package versions and hardware requirements is a nightmare. In this tutorial, I will show you the steps I took to run Hugging face transformers locally on my M1 Macbook.
+
+## 0. Requirements
 
 ## 1. Terminal Setup
 
